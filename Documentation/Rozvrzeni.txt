@@ -1,0 +1,7 @@
+Projekt Manhattan
+
+Barvy jsou v diagramu "BriefDiagram 0".
+
+Vratislav Jindra - modrá část (části města (interfejsy IBuilding, IStreet, IMultiWayStreet, IOneWayStreet, IExitStreet, ITrafficLight, IControlledStreet))
+Jakub Rambousek - oranžová část (GUI (interfejsy ITown, ITownBuilder, IFactories))
+Anastasia Shuvalova - červená část (řízení (interfejsy IDriver, IPlanner, IVehicle)
